@@ -45,7 +45,7 @@
 /* Refer following tutorial and API documentation to know how to create a user token
  * https://mesibo.com/documentation/tutorials/first-app/ 
  */
-var MESIBO_ACCESS_TOKEN = "";
+var MESIBO_ACCESS_TOKEN = "voccmpjcdj9y7oiw0de781qrg918ey41egek8z00100gdm42jrjjxls1ia7i70ma";
 /* App ID used to create a user token. */
 var MESIBO_APP_ID = "web";
 
